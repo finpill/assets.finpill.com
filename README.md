@@ -1,1 +1,1 @@
-# images.finpill.com
+finpill.com
